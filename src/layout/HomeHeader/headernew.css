@@ -1,0 +1,80 @@
+.new-nav .bg-transparent {
+  background-color: transparent;
+}
+
+.new-nav .w-full {
+  width: 100%;
+}
+.new-nav .z-50 {
+  z-index: 50;
+}
+.new-nav .top-0 {
+  top: 0;
+}
+.new-nav .fixed {
+  position: fixed;
+}
+
+.new-nav .py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.new-nav .px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.new-nav .justify-between {
+  justify-content: space-between;
+}
+.new-nav .items-center {
+  align-items: center;
+}
+.new-nav .w-full {
+  width: 100%;
+}
+.new-nav .flex {
+  display: flex;
+}
+
+.new-nav .h-12 {
+  height: 3rem;
+}
+@media (min-width: 768px) {
+  .new-nav .md\:h-16 {
+    height: 4rem;
+  }
+}
+
+.new-nav .text-white {
+  --tw-text-opacity: 1;
+  color: rgba(255, 255, 255, var(--tw-text-opacity));
+}
+.new-nav .gap-7 {
+  gap: 1.75rem;
+}
+.new-nav .items-center {
+  align-items: center;
+}
+.new-nav .hidden {
+  display: none;
+}
+.new-nav .z-3 {
+  z-index: 3;
+}
+.new-nav .relative {
+  position: relative;
+}
+.new-nav .text-active {
+  --tw-text-opacity: 1;
+  color: rgba(35, 206, 229, var(--tw-text-opacity));
+}
+.new-nav .font-bold {
+  font-weight: 700;
+}
+@media (min-width: 1280px) {
+  .new-nav .xl\:flex {
+    display: flex;
+  }
+}
+

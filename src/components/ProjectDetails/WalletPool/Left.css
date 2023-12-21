@@ -1,0 +1,288 @@
+.css-118fm6x {
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  flex: 2 1 0%;
+  align-self: center;
+  padding-left: 0 !important;
+}
+.banner-position {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+.banner-private {
+  border-radius: 20px;
+}
+
+.bg-log {
+  background-image: url("https://static.solanium.com/media/projects/reign_of_terror_header.png");
+}
+
+.top-margin {
+  margin-top: 8rem;
+}
+
+.top-padding {
+  padding-top: 8rem;
+}
+
+.TXsWW {
+  height: auto;
+  display: flex;
+  gap: 7px;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 16px !important;
+  border-radius: 16px;
+  background: #1e110e !important;
+  border: 1px solid rgba(78, 62, 125, 0.3);
+  align-self: stretch;
+  min-width: 400px;
+  width: 100%;
+}
+.iQLPZJ {
+  width: 100%;
+}
+.css-1coeexk {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.jjmhwl {
+  width: 54px;
+  height: 54px;
+  margin-right: 15px;
+  /* border-radius: 50%; */
+  /* object-fit: contain; */
+  /* background: rgb(242, 242, 242); */
+  /* border: 1px solid rgb(242, 242, 242); */
+}
+
+.kstdpQ {
+  font-size: 24px;
+  color: white;
+  font-weight: bold;
+  line-height: 37px;
+}
+.faNuxs {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 16px;
+}
+.fdlyIC {
+  position: relative;
+}
+
+.ipDbmA {
+  fill: white;
+}
+.eeoijf {
+  background: rgb(255, 255, 255);
+  color: white;
+  border-radius: 5px;
+  font-size: 12px;
+  line-height: 18px;
+  padding: 10px;
+  box-shadow: rgba(1, 0, 56, 0.4) 0px 3px 20px;
+  position: absolute;
+  display: none;
+  top: 31px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.css-1ebprri {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.css-id4qb0 {
+  display: flex;
+  flex-direction: row;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  font-weight: 700;
+}
+
+.gfkwOE {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgba(255, 178, 192, 0.3);
+}
+.clMPag {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: fit-content;
+  text-decoration: underline;
+  color: rgb(0, 116, 255);
+  font-size: 14px;
+}
+.css-1eyrzw {
+  margin: 0px;
+  font-size: 14px;
+  line-height: 1.43;
+  font-weight: 700;
+}
+
+.css-vubbuv {
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentcolor;
+  flex-shrink: 0;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-size: 1.5rem;
+}
+.iuuMPQ {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: white;
+  margin-bottom: 15px;
+}
+.jjxEac {
+  color: rgb(237, 117, 110);
+  margin-left: 7px;
+  width: 14px !important;
+  height: 14px !important;
+}
+.WuXtW {
+  color: rgb(237, 117, 110);
+  font-weight: 700 !important;
+}
+.css-vpdg9a {
+  margin-bottom: 20px;
+  gap: 15px;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.RWcOJ {
+  text-decoration: none;
+}
+
+.clMPag {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: fit-content;
+  text-decoration: underline;
+  color: rgb(0, 116, 255);
+  font-size: 14px;
+}
+.fvTqRt {
+  font-size: 12px;
+  height: 26px;
+  line-height: 12px;
+  padding: 0px 14px;
+  background: rgb(182, 124, 255);
+}
+.css-70qvj9 {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.border-btnu {
+  border-bottom: 1px solid rgb(224, 224, 224);
+}
+
+.jsONzb:hover {
+  opacity: 0.8;
+}
+
+.jsONzb {
+  -webkit-box-align: center;
+  align-items: center;
+  border: 0px;
+  cursor: pointer;
+  display: inline-flex;
+
+  font-size: 16px;
+  font-weight: 700;
+  -webkit-box-pack: center;
+  justify-content: center;
+  letter-spacing: 0px;
+  line-height: 1;
+  opacity: 1;
+  outline: 0px;
+  transition: background-color 0.2s ease 0s;
+  position: relative;
+  text-decoration: none;
+  height: 38px;
+  padding: 0px 20px;
+  border-radius: 19px;
+  border: 3px solid #f7931a !important;
+  background: transparent;
+  color: #f7931a;
+}
+.dbJaQQ {
+  fill: rgb(250, 250, 250);
+}
+.kEdRDb {
+  width: 100%;
+  border-radius: 20px;
+  border: 1px solid rgb(224, 224, 224);
+  font-size: 14px;
+  font-weight: 400;
+  background: #f7931a;
+  color: white;
+}
+.gPIdId {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  padding: 20px;
+  height: 60px;
+}
+.css-k008qs {
+  display: flex;
+}
+.css-gs2brp {
+  margin: 0px;
+  text-transform: none;
+  font-size: 0.875rem;
+  line-height: 20px;
+
+  font-weight: 400;
+}
+
+.fWwSZs {
+  color: white;
+  font-weight: bold;
+  line-height: 20px !important;
+}
+@media screen and (min-width: 852px) {
+  .kstdpQ {
+    max-height: 37px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+}
+
+@media (max-width: 1280px) {
+  .TXsWW {
+    width: 100%;
+    padding: 0px;
+    min-width: unset;
+  }
+}
+@media (max-width: 1000px) {
+  .kstdpQ {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .jjmhwl {
+    width: 32px;
+    height: 32px;
+  }
+}

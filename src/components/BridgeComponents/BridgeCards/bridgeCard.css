@@ -1,0 +1,269 @@
+@font-face {
+  font-family: tecno2;
+  src: url(../../../assets/fonts/tecno2.ttf);
+}
+.bridgeCard .drop-shadow {
+  position: relative;
+  background-color: #1e110e !important;
+  box-shadow: 0 0 2px #f7931a, 0 0 10px #f7931a, 0 0 20px #f7931a;
+  border: 1px solid #f7931a;
+}
+.theme-bg {
+  background-color: #f7931a;
+}
+.bridgeCard .bg-white {
+  background-color: rgb(30, 17, 14) !important;
+}
+.bridgeCard .text-primary:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+.bridgeCard .text-primary {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: white !important;
+}
+.bridgeCard .as-btn {
+  background-color: inherit;
+  border: none;
+  outline: none;
+}
+.bridgeCard .as-btn:disabled {
+  cursor: default;
+
+  opacity: 0.6;
+}
+.bridgeCard .p-4 {
+  padding: 1rem;
+}
+.bridgeCard .pn-4 {
+  padding: 1rem !important;
+}
+.bridgeCard .bg-opacity-20 {
+  --tw-bg-opacity: 0.2;
+}
+.bridgeCard p,
+.bridgeCard h1,
+.bridgeCard h2,
+.bridgeCard h3,
+.bridgeCard h4,
+.bridgeCard h5 {
+  margin: 0;
+}
+.bridgeCard .w-10 {
+  width: 2.5rem;
+}
+.bridgeCard .py-1\.5 {
+  padding-top: 0.375rem;
+  padding-bottom: 0.375rem;
+}
+.bridgeCard .px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.bridgeCard .bg-opacity-5 {
+  --tw-bg-opacity: 0.05;
+}
+.bridgeCard .bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+.bridgeCard .rounded-lg {
+  border-radius: 0.5rem;
+}
+.bridgeCard .gap-1 {
+  gap: 0.25rem;
+}
+.bridgeCard .items-center {
+  align-items: center;
+}
+.bridgeCard .cursor-pointer {
+  cursor: pointer;
+}
+.bridgeCard .min-h-\[36px\] {
+  min-height: 36px;
+}
+.bridgeCard .gap-2\.5 {
+  gap: 0.625rem;
+}
+.bridgeCard .object-center {
+  object-position: center;
+}
+.bridgeCard .text-gray-200 {
+  --tw-text-opacity: 1;
+  color: rgb(229 231 235 / var(--tw-text-opacity));
+}
+.bridgeCard .font-medium {
+  font-weight: 500;
+}
+.bridgeCard .text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+.bridgeCard .none-hide {
+  display: none;
+}
+.bridgeCard .text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+.bridgeCard .font-medium {
+  font-weight: 500;
+}
+.bridgeCard .text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+.bridgeCard .text-center {
+  text-align: center;
+}
+.bridgeCard .py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+.bridgeCard .px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.bridgeCard .bg-gray-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+}
+.bridgeCard .rounded-full {
+  border-radius: 9999px;
+}
+.bridgeCard .gap-2\.5 {
+  gap: 0.625rem;
+}
+.bridgeCard .items-center {
+  align-items: center;
+}
+.bridgeCard .cursor-pointer {
+  cursor: pointer;
+}
+.bridgeCard .font-semibold {
+  font-weight: 600;
+}
+.bridgeCard .text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+.bridgeCard .py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.bridgeCard .px-4 {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+.bridgeCard .bg-black\/20 {
+  background-color: #0003;
+}
+.bridgeCard .border-gray-700 {
+  --tw-border-opacity: 1;
+  border-color: rgb(55 65 81 / var(--tw-border-opacity));
+}
+.bridgeCard .border {
+  border-width: 1px;
+}
+.bridgeCard .rounded-lg {
+  border-radius: 0.5rem;
+}
+.bridgeCard .outline-none {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+.bridgeCard .text-gray-200 {
+  --tw-text-opacity: 1;
+  color: rgb(229 231 235 / var(--tw-text-opacity));
+}
+.bridgeCard .bg-transparent {
+  background-color: transparent;
+}
+.bridgeCard .border-none {
+  border-style: none;
+}
+.bridgeCard .appearance-none {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+.bridgeCard .flex-1 {
+  flex: 1 1 0%;
+}
+.bridgeCard .max-w-\[180px\] {
+  max-width: 180px;
+}
+.bridgeCard .dpoa {
+  background-color: white;
+  padding-inline: 1rem !important;
+}
+.bridgeCard .border-bg {
+  background-image: linear-gradient(
+    to right,
+    #1e110e 50%,
+    transparent 50%
+  ),
+  linear-gradient(to right, #1e110e 50%, transparent 50%),
+  linear-gradient(#1e110e 50%, transparent 50%),
+  linear-gradient(#1e110e 50%, transparent 50%);
+  background-position: left top, left bottom, left top, right top;
+  background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
+  background-size: 20px 2px, 20px 2px, 2px 20px, 2px 20px;
+}
+.bridgeCard .rounded-lg {
+  border-radius: 0.5rem;
+}
+.bridgeCard .gap-y-2\.5 {
+  row-gap: 0.625rem;
+}
+.bridgeCard .bg-primary {
+  background-color: #f7931a !important;
+  color: white !important;
+}
+.bridgeCard .text-grading {
+  text-align: left;
+  margin: 0px;
+  font-family: tecno2;
+  letter-spacing: -0.01562em;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  margin-block: 8px !important;
+  line-height: 46px;
+  color: rgba(255, 255, 255, 0.9);
+  text-shadow: #ff8c00 0px 0px 40px;
+}
+.bridgeCard .syncera-warning {
+  margin: 0;
+}
+/*  */
+@media (max-width: 450px) {
+  .bridgeCard .text-grading {
+    font-size: 28px;
+  }
+}
+@media (min-width: 640px) {
+  .bridgeCard .sm\:py-6 {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+  .bridgeCard .sm\:px-8 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .bridgeCard .sm\:p-6 {
+    padding: 1.5rem;
+  }
+}
+@media (min-width: 850px) {
+  .bridgeCard .sm\:w-\[800px\] {
+    width: 800px;
+  }
+}
+@media (min-width: 1024px) {
+  .bridgeCard .lg\:block {
+    display: block;
+  }
+}

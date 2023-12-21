@@ -1,0 +1,31 @@
+.get-ready-badge.tile--with-shadow {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  border-radius: 32px;
+}
+.get-ready-badge .tile__main {
+  font-size: 32px;
+  line-height: 1.4;
+  font-family: tecno2;
+  text-shadow: #ff8c00 0px 0px 40px;  
+  margin-bottom: 40px;
+  text-align: center;
+}
+@media (max-width:750px) {
+  .get-ready-section {
+    padding-top: 54px !important;
+    padding-bottom: 25px !important;
+}
+  
+}
+@media (max-width: 550px) {
+  .get-ready-badge .tile__main {
+    font-size: 32px !important;
+  }
+}
